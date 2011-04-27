@@ -1,0 +1,23 @@
+IE6
+Server
+Typo3
+Photoshop 
+InDesign 
+Illustrator 
+TextMate 
+Firefox 
+Safari 
+Finder 
+Mac OS X 
+Windows XP
+CakePHP
+HTML
+PHP
+Ruby
+RubyOnRails
+Shell
+SSH
+git
+Typographie
+Terminal
+MySQL
